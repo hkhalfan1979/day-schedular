@@ -42,3 +42,8 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/05-third-party-apis-homework-demo.gif)
+
+
+var APIKey = "3ef6c5fde4febcc1f92f88e51b64bc82";
+
+Activity 4.
