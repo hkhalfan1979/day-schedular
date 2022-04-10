@@ -2,6 +2,13 @@
 
 A Work day calendar of 9 hours block. A user can enter their work day schedule details within a text area and save it to local storage by clickking the save button related to each hour block.
 
+
+# Deployed URL
+https://hkhalfan1979.github.io/day-schedular/
+
+# Repo URL: 
+https://github.com/hkhalfan1979/day-schedular
+
 ## Acceptance Criteria
 
 ```md
@@ -19,6 +26,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
 
 ![Work day schedular screenshot.](./assets/work-day-schedular-screenshot.png)
